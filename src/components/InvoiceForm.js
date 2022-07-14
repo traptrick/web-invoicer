@@ -308,7 +308,9 @@ class InvoiceForm extends React.Component {
                 </Col>
               </Row>
               <hr className="my-4" />
-              <Form.Label className="fw-bold">Notes:</Form.Label>
+              <Form.Label className="fw-bold d-flex flex-row align-items-center">
+                <span style={{ padding: "0 0 0 5px" }}>Notes: </span>
+              </Form.Label>
               <Form.Control
                 placeholder="Thanks for your business!"
                 name="notes"
