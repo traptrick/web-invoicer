@@ -8,8 +8,8 @@ https://web-invoicer.netlify.app/
 
 ### Screenshots
 
-![screenshot](https://github.com/traptrick/web-invoicer/blob/master/ssone.png)
-![screenshot](https://github.com/traptrick/web-invoicer/blob/master/sstwo.png)
+![screenshot](https://github.com/traptrick/web-invoicer/blob/main/ssone.png)
+![screenshot](https://github.com/traptrick/web-invoicer/blob/main/sstwo.png)
 
 ### Installation
 
